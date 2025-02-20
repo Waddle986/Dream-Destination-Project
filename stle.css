@@ -1,13 +1,42 @@
 body {
-    background-color:rgb(145, 96, 209);
+    background-color:#c67ed4;
     font-family: Verdana;
 }
-
-h1{
+p{
     text-align: center;
-    color:rgb(243, 147, 57);
-    
+    color:#269de2
+}
+h1{
+    color:rgb(238, 165, 56);
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color:rgb(185, 53, 197);
 }
 img{
  align-items: end;
 }
+
+img{
+    width: 20%;
+    height:20%;
+}
+
+a{
+color:royalblue;
+}
+a:hover{
+color:gold;
+}
+h2{
+    text-align: center;
+    color:rgb(238, 165, 56);
+ }
+
+a{
+text-align: center;
+font-size: 34;
+}
+
