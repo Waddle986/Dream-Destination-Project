@@ -1,19 +1,23 @@
 body {
     background-color:#c67ed4;
     font-family: Verdana;
+    text-decoration: none;
 }
 p{
     text-align: center;
-    color:#269de2
+    color:#269de2;
+    text-decoration: none;
 }
 h1{
     color:rgb(238, 165, 56);
     text-align: center;
+    text-decoration: underline overline;
 }
 
 h4{
     text-align: center;
     color:rgb(185, 53, 197);
+    text-decoration: none;
 }
 img{
  align-items: end;
@@ -26,17 +30,21 @@ img{
 
 a{
 color:royalblue;
+text-decoration: none;
 }
 a:hover{
 color:gold;
+text-decoration: none;
 }
 h2{
     text-align: center;
     color:rgb(238, 165, 56);
+    text-decoration: none;
  }
 
 a{
 text-align: center;
 font-size: 34;
+text-decoration: none;
 }
 
